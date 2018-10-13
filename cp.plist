@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://d.jd52088.com/app/cp.ipa</string>
+					<string>http://d.jd52088.com/app/cp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://d.jd52088.com/app/logo.png</string>
+					<string>http://d.jd52088.com/app/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
